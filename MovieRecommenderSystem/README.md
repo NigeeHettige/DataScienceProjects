@@ -1,10 +1,10 @@
 
-```markdown
+
 # Movie Recommender System
 
 A simple web-based Movie Recommender System built using Python and Streamlit. The app suggests movies based on user selection and displays their posters using The Movie Database (TMDb) API.
 
----
+
 
 ## Features
 
@@ -12,13 +12,14 @@ A simple web-based Movie Recommender System built using Python and Streamlit. Th
 - Displays movie posters and titles.
 - Interactive and user-friendly interface.
 
----
 
-## Setup Instructions
+
+
+**Setup Instructions**
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/NigeeHettige/movie-recommender-system.git
+   git clone https://github.com/NigeeHettige/DataScienceProjects.git
    cd movie-recommender-system
    ```
 
